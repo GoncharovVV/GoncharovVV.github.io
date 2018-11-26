@@ -3390,6 +3390,11 @@ body {
 	height: 340px;
 }
 
+.map-frame iframe {
+	width: 100%;
+	height: 100%;
+}
+
 .footer__bottom-holder {
 	background-image: url(../images/temp/footer-bg.jpg);
 	background-repeat: no-repeat;
@@ -3497,6 +3502,17 @@ body {
 	flex: 1 1;
 	font-size: 14px;
 	line-height: 1.4;
+}
+
+.Адрес:_г__Москва__г__Щербинка__Симферопольское_ {
+	font-family: "Myriad Pro";
+	color: white;
+	line-height: 1.429;
+	text-align: left;
+	position: absolute;
+	left: 365.937px;
+	top: 6924.247px;
+	z-index: 513;
 }
 
 .green-block__button {
